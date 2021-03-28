@@ -1,0 +1,49 @@
+{
+	"id": "4c94b759-de5a-41b0-9ccc-de3571f85bfa",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "trelloKey",
+			"value": "1f7e54ef64d7a677e8c25893264dd857",
+			"enabled": true
+		},
+		{
+			"key": "trelloToken",
+			"value": "0b76b693b8f5bd846aa68c10af4a566ac89832dbc558f222a60cd98b4125c1b6",
+			"enabled": true
+		},
+		{
+			"key": "currentBoardNumber",
+			"value": "19",
+			"enabled": true
+		},
+		{
+			"key": "boardName",
+			"value": "My Board 20",
+			"enabled": true
+		},
+		{
+			"key": "boardId",
+			"value": "605c6659276866017be185fc",
+			"enabled": true
+		},
+		{
+			"key": "toDoListId",
+			"value": "605c665c6f2dfa3c37dd2724",
+			"enabled": true
+		},
+		{
+			"key": "doneListId",
+			"value": "605c665f0b2e2a890cbc0462",
+			"enabled": true
+		},
+		{
+			"key": "cardId",
+			"value": "605c666208326f7382a6d122",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-03-25T10:37:37.077Z",
+	"_postman_exported_using": "Postman/7.36.5"
+}
